@@ -200,7 +200,7 @@ permalink: /sponsors/
 
                  <a href="https://www.bios-it.co.uk/home.aspx">
       <div class="sponsor-logo">
-        <img src="assets/images/biositlogo.png">
+        <img src="https://media.licdn.com/dms/image/v2/C4E0BAQG7i6L8ZnTHqw/company-logo_200_200/company-logo_200_200/0/1630564451226/bios_it_logo?e=2147483647&v=beta&t=qTte_UB3GWiohyKQaOdEc4jePDPzDY9J1D7q1H32vW0">
       </div>
        </a>
        
@@ -219,7 +219,7 @@ permalink: /sponsors/
 
      <a href="https://midasimmersion.com/">
       <div class="sponsor-logo">
-        <img src="https://midasimmersion.com/wp-content/uploads/midas-logo-nw25.webp"/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ600jBke7tEbherj_Qolde-FiHvrc6nuq-RA&s">
       </div>
        </a>
 
