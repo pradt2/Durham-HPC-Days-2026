@@ -1,5 +1,5 @@
 ---
-title: "Keynote"
+title: "Implementing the Compute Roadmap"
 hybrid: "https://events.teams.microsoft.com/event/6201bfc9-47ee-4d54-8f98-526a86e431d9@7250d88b-4b68-4529-be44-d59a2d8a6f94#"
 
 
