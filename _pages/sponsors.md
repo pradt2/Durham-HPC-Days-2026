@@ -251,6 +251,9 @@ If you have any questions, please contact Alastair Basden at a.g.basden@durham.a
       
       <h2 style="font-size: 1.8rem; margin-bottom: 1rem;">Attendance & Registration</h2>
       <p style="margin-bottom: 1rem;">
+        If you are sponsoring and supporting HPC Days 2026, THANK YOU VERY MUCH! We would not be able to run the event without you!
+      </p>
+      <p style="margin-bottom: 1rem;">
         You are welcome to attend as much or as little of the event as you wish.
       </p>
       <p style="margin-bottom: 1rem;">
@@ -322,10 +325,8 @@ DH1 3UP Durham
       <p>
         Upon arrival in Durham, please go to the Mountjoy Centre building entrance where the registration desk will be.  From there, head up the half-flight of stairs to the main meeting venue in the Maple Wing of the building.
         
-A map can be found
-
       <p>
-        A map can be found <a href="https://hpc-days.github.io/Durham-HPC-Days-2026/rooms/" style="color:#8e3d94;">here</a> nearby.
+        A map can be found <a href="https://hpc-days.github.io/Durham-HPC-Days-2026/rooms/" style="color:#8e3d94;">here</a>.
       </p>
       
 
