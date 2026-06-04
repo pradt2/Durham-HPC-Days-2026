@@ -211,7 +211,6 @@ Durham DH1 3UP
 
   <ul class="checklist">
     <li>Please register on arrival before attending any sessions</li>
-    <li>Event materials and schedules will be provided at registration</li>
   </ul>
 </div>
 
@@ -228,7 +227,7 @@ Durham DH1 3UP
 
   <ul class="checklist">
     <li><strong>Mathematical Science and Computer Science Building (MCS) </strong> - main lectures and sessions</li>
-    <li><strong>Rohan House (RH)</strong> - selected sessions and activities</li>
+    <li><strong>Rowan House (RH)</strong> - selected sessions and activities</li>
     <li><strong>Mountjoy Centre (MJC)</strong> - registration, catering, and additional sessions</li>
   </ul>
 
@@ -240,6 +239,11 @@ Durham DH1 3UP
 <p>
   A <strong>Quiet Room</strong> will be available throughout the conference in <strong>MCS 2053</strong>. This space is intended for attendees who would like a quiet place to work, or simply take a break from the conference. Please help us keep the room quiet by taking phone calls, online meetings, and conversations elsewhere.
 </p>
+
+<p>
+  A <strong>Multi-Faith Room</strong> will be available throughout the conference in <strong>MJC 4004</strong>. Please be respectful of others using the room and help maintain a peaceful environment.
+</p>
+
   <p>
     We recommend checking the programme each day to confirm the correct venue for your sessions.
   </p>

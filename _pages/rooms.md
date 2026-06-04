@@ -46,7 +46,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   const rooms = [
     {
-      name: "Mountjoy Centre: Event Space, MJC2004, MJC2006, MJC4003, MJC5011",
+      name: "Mountjoy Centre: Event Space, MJC2004, MJC2006, MJC 4004, MJC4003, MJC5011",
       lat: 54.76445,
       lon: -1.5712,
       color: "green"
@@ -58,7 +58,7 @@ document.addEventListener("DOMContentLoaded", function () {
       color: "green"
     },
     {
-      name: "Computer Science Building: Rooms MCS0001, MCS 2053, MCS2068 and VisLab",
+      name: "Computer Science Building: Rooms MCS0001, MCS2053, MCS2068 and VisLab",
       lat: 54.7635,
       lon: -1.572,
       color: "red"
