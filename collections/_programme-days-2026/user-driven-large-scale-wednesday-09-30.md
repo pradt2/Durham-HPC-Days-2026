@@ -129,7 +129,7 @@ end_time_1: "10:30"
 
 
 
-room: "RH007"
+room: "MCJ2004"
 
 
 

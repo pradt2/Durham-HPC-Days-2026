@@ -30,7 +30,7 @@ lead_links:
 
 #CONTRIBUTORS
 # Comma-separated list of the contributors of the session
-contributor: "Luigi del Debbio, Bryan Jones"
+contributor: "Luigi del Debbio, Charlotte Bell"
 # Contributors' photos (must match order of names above). 
 contributor_photos:
   - "assets/images/generic.jpg"
