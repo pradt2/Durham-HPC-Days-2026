@@ -373,6 +373,12 @@ hidden: true
       </div>
       </a>
 
+      <a href="https://www.cornelis.com" target="_blank" rel="noopener noreferrer">
+      <div class="sponsor-logo">
+        <img src="assets/images/cornelislogo.png" alt="Cornelis">
+      </div>
+      </a>
+
        
        
        
