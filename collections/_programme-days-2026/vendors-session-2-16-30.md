@@ -8,7 +8,7 @@ end_time: "18:00"
 
 #SPEAKERS
 # Comma-separated list of the speakers of the session
-speaker: "BIOS-IT, Dell, FSAS Technologies, Midas, Novatech, Spectra Logic, VAST"
+speaker: "BIOS-IT, Dell, Fsas Technologies, Midas, Novatech, Spectra Logic, VAST, Cornelis"
 # Speakers photos (must match order of names above). 
 speaker_photos:
 - "assets/images/biositlogo.png"
@@ -19,6 +19,7 @@ speaker_photos:
 - "https://spectralogic.com/wp-content/uploads/SpectraLogo-2023.webp"
 - "https://upload.wikimedia.org/wikipedia/commons/3/36/VAST_Data_logo.svg"
 - "https://www.peakaio.com/images/logos/peakaio-logo-org.png"
+- "assets/images/cornelislogo.png"
 
 # Speakers profile links (must match order of names above)
 speaker_links:
@@ -30,25 +31,26 @@ speaker_links:
   - "https://spectralogic.com/"
   - "https://www.vastdata.com/"
   - "https://www.peakaio.com/"
-  
+  - "https://www.cornelis.com"  
   
 
 room: "Mountjoy Centre"
 layout: session
 category: "Poster"
 description: >
-  <p>This session offers a series of focused presentations from selected vendors, providing a deeper look into their technologies and solutions for high-performance computing. With a smaller audience, attendees will have the opportunity to engage more directly and explore specific tools and services in greater detail.</p>
+  <p>This session offers a series of focused presentations from selected vendors, providing a deeper look into their technologies and solutions for high-performance computing. With a smaller audience, attendees will have the opportunity to engage more directly and explore specific tools and services in greater detail.  Each talk will be up to 8 minutes long.</p>
 
   <p><strong>Schedule:</strong></p>
   <ul>
     <li>16:30 - BIOS-IT</li>
     <li>16:40 - Dell</li>
-    <li>16:50 - FSAS Technologies</li>
+    <li>16:50 - Fsas Technologies</li>
     <li>17:00 - Midas</li>
     <li>17:10 - Novatech</li>
     <li>17:20 - Spectra Logic</li>
     <li>17:30 - VAST</li>
     <li>17:40 - PeakAIO</li>
+    <li>17:50 - Cornelis</li>
   </ul>
 
   <a href="https://hpc-days.github.io/Durham-HPC-Days-2026/sponsors/" class="btn btn-purple">

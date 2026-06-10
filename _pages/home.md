@@ -367,6 +367,17 @@ hidden: true
       </div>
        </a>
 
+      <a href="https://www.quantum.com" target="_blank" rel="noopener noreferrer">
+      <div class="sponsor-logo">
+        <img src="https://www.quantum.com/globalassets/redesign2021/quantum-logo-gradient.svg" alt="Quantum">
+      </div>
+      </a>
+
+      <a href="https://www.cornelis.com" target="_blank" rel="noopener noreferrer">
+      <div class="sponsor-logo">
+        <img src="assets/images/cornelislogo.png" alt="Cornelis">
+      </div>
+      </a>
 
        
        

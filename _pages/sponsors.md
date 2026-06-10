@@ -223,7 +223,17 @@ permalink: /sponsors/
       </div>
        </a>
 
+      <a href="https://www.quantum.com" target="_blank" rel="noopener noreferrer">
+      <div class="sponsor-logo">
+        <img src="https://www.quantum.com/globalassets/redesign2021/quantum-logo-gradient.svg" alt="Quantum">
+      </div>
+      </a>
 
+      <a href="https://www.cornelis.com" target="_blank" rel="noopener noreferrer">
+      <div class="sponsor-logo">
+        <img src="assets/images/cornelislogo.png" alt="Cornelis">
+      </div>
+      </a>
 
 
       <!-- Add more as needed -->
@@ -251,6 +261,9 @@ If you have any questions, please contact Alastair Basden at a.g.basden@durham.a
       
       <h2 style="font-size: 1.8rem; margin-bottom: 1rem;">Attendance & Registration</h2>
       <p style="margin-bottom: 1rem;">
+        If you are sponsoring and supporting HPC Days 2026, THANK YOU VERY MUCH! We would not be able to run the event without you!
+      </p>
+      <p style="margin-bottom: 1rem;">
         You are welcome to attend as much or as little of the event as you wish.
       </p>
       <p style="margin-bottom: 1rem;">
@@ -263,7 +276,7 @@ If you have any questions, please contact Alastair Basden at a.g.basden@durham.a
 
       <h2 style="font-size: 1.8rem; margin-top: 2rem; margin-bottom: 1rem;">Sponsor Session</h2>
       <p style="margin-bottom: 1rem;">
-        The Sponsor Session is on Wednesday starting from 15:00, continuing until 18:00. There will be a 2-3 minute slot to the whole general audience where you should introduce yourself, followed by a 15 minute panel session taking questions from the audience.  There will then be a more focused 8 minute slot to a smaller audience of those who wish to come.  You can also opt to have a second (identical) 8 minute slot if you wish, please let us know. <br>
+        The Sponsor Session is on Wednesday starting from 15:00, continuing until 18:00. There will be a 2-3 minute slot to the whole general audience where you should introduce yourself, followed by a 15 minute panel session taking questions from the audience.  There will then be a more focused 8 minute slot to a smaller audience of those who wish to come.  <br/>
 
 You can either present using your own laptop or send us slides in advance.The talk should be aimed at a research audience (non-technical, with some technical ability), and should not be a marketing talk.
 
@@ -322,10 +335,8 @@ DH1 3UP Durham
       <p>
         Upon arrival in Durham, please go to the Mountjoy Centre building entrance where the registration desk will be.  From there, head up the half-flight of stairs to the main meeting venue in the Maple Wing of the building.
         
-A map can be found
-
       <p>
-        A map can be found <a href="https://hpc-days.github.io/Durham-HPC-Days-2026/rooms/" style="color:#8e3d94;">here</a> nearby.
+        A map can be found <a href="https://hpc-days.github.io/Durham-HPC-Days-2026/rooms/" style="color:#8e3d94;">here</a>.
       </p>
       
 

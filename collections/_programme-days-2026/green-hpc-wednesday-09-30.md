@@ -10,7 +10,7 @@
 # SCHEDULING INFORMATION - COMPLETE INFORMATION
 
 # Full TITLE of the session/tutorial
-title: "Green HPC"
+title: "Responsible computing plans"
 
 
 # Comma-separated list of INSTRUCTORS
@@ -52,7 +52,7 @@ instructor_links:
 
 # INSTITUTION
 # Comma-separated list of institutions
-institution: ""
+institution: "EPCC"
 # Institution logo
 institution_logo: ""
 # Institution website link
@@ -86,7 +86,8 @@ supported_link: ""
 # DESCRIPTION
 
 # Full session description (please use <br> to add a new paragraph) 
-description: ""
+description: "This session will introduce the concept of a responsible computing plan for HPC use and the practical actions you can take to reduce emissions from your use of HPC. It will cover different stages of the project from
+planning, data management, actions during the project, to finishing the project well."
    
 
 requirements: ""
